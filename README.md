@@ -1,22 +1,14 @@
 # HangDroid
 
----
-
 A Hangman game as an Android app.
+
+![](app/src/main/res/screenshots/HangDroid.gif "HangDroid Animation")
 
 **Features**
 
 * Single-player mode with randomly selected 4-letter word.
-
-![](app/src/main/res/screenshots/single.jpg "HangDroid Single-player")
-
 * Single-player score tracking
-
-![](app/src/main/res/screenshots/scores.jpg "Scores Tracking")
-
 * Multi-player mode with player-selected word.
-
-![](app/src/main/res/screenshots/multi.jpg "HangDroid Multi-player")
 
 **To Play**
 
