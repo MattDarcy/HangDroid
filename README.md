@@ -12,7 +12,7 @@ A Hangman game as an Android app.
 
 * Single-player score tracking
 
-![](app/src/main/res/screenshots/scores.png "Scores Tracking")
+![](app/src/main/res/screenshots/scores.jpg "Scores Tracking")
 
 * Multi-player mode with player-selected word.
 
