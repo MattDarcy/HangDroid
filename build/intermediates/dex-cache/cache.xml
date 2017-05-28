@@ -2,32 +2,58 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\Administrator\AndroidStudioProjects\HangDroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
-        <dex dex="C:\Users\Administrator\AndroidStudioProjects\HangDroid\app\build\intermediates\pre-dexed\debug\classes-38633a78c01b2dd6388869d00f15078d7faeae21.jar" />
+        is-multidex="true"
+        jar="/Users/Darcy/Documents/GitHub/HangDroid/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bb32e0a40ce7f0a00c661a5a5c8b020cbfd0aa78">
+        <dex dex="/Users/Darcy/Documents/GitHub/HangDroid/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_4453f57f9cb7132103d3eba962598ae1d5005899/classes.dex" />
     </item>
     <item
-        jar="C:\Users\Administrator\AndroidStudioProjects\HangDroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
-        jumboMode="false"
-        revision="22.0.1"
+        is-multidex="true"
+        jar="/Users/Darcy/.android/build-cache/3e749a3d11af28fc62f58faebb7be97841d7a204/output/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
         sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
-        <dex dex="C:\Users\Administrator\AndroidStudioProjects\HangDroid\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-7241c8ad2173434b98ad5cafb81a366f082a5609.jar" />
+        <dex dex="/Users/Darcy/Documents/GitHub/HangDroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.0.0_210631f1348d9fd3510665c81a803eff6226ee79/classes.dex" />
     </item>
     <item
-        jar="C:\Users\Administrator\AppData\Local\Android\sdk1\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
-        <dex dex="C:\Users\Administrator\AndroidStudioProjects\HangDroid\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-f99303b7424430251df98c745f9c6cc692428e77.jar" />
-    </item>
-    <item
-        jar="C:\Users\Administrator\AndroidStudioProjects\HangDroid\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
+        is-multidex="true"
+        jar="/Users/Darcy/.android/build-cache/144c10a9571565629eb8b5f48ae83f29d11def96/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
         sha1="d84409890828e07d344a3b9b1da545dba9897b51">
-        <dex dex="C:\Users\Administrator\AndroidStudioProjects\HangDroid\app\build\intermediates\pre-dexed\debug\classes-d84efce55f5e071ecf510138cc01460672f6caa6.jar" />
+        <dex dex="/Users/Darcy/Documents/GitHub/HangDroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cfcc29a1476e321a3daf15b93ff4565c607c43b1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Darcy/Documents/GitHub/HangDroid/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/Darcy/Documents/GitHub/HangDroid/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_97a4456f48fe5ccf10ce0aeb764f39d0f90c75c2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Darcy/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Users/Darcy/Documents/GitHub/HangDroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.0.0_a777bf226bd6d06cf995e80634cd515c9b76afeb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Darcy/.android/build-cache/3e749a3d11af28fc62f58faebb7be97841d7a204/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/Darcy/Documents/GitHub/HangDroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_94064e85b0db697f4938c17c093a18ae3a66e38c/classes.dex" />
     </item>
 
 </items>

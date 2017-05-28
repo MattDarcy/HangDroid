@@ -101,7 +101,7 @@ public class GameActivity extends ActionBarActivity {
             }
         }
 
-        if(letterGuessed == false){
+        if(!letterGuessed){
             letterFailed(Character.toString(charIntroduced));
         }
 
@@ -163,7 +163,7 @@ public class GameActivity extends ActionBarActivity {
     /**
      * Displaying a letter guessed by the user
      * @param position, position of the letter
-     * @param letterGuessed
+     * @param letterGuessed, letter guessed
      */
     public void showLettersAtIndex(int position, char letterGuessed){
         LinearLayout layoutLetter = (LinearLayout) findViewById(R.id.layoutLetters);
@@ -624,8 +624,7 @@ public class GameActivity extends ActionBarActivity {
 
         Log.d("MYLOG","The array length "+arrayWords.length);
         int randomNumber = (int) (Math.random() * arrayWords.length); // value between 0 and 5400
-        String randomWord = arrayWords[randomNumber];
-        mword = randomWord;
+        mword = arrayWords[randomNumber];
     }
 
 
